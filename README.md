@@ -20,3 +20,4 @@ Landing page, Privacy Policy, Terms of Service, and Support page for the Pingoo 
 - Privacy Policy: `https://yourusername.github.io/pingoo-website/privacy.html`
 - Support URL: `https://yourusername.github.io/pingoo-website/support.html`
 - Marketing URL: `https://yourusername.github.io/pingoo-website`
+
